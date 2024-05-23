@@ -4,7 +4,8 @@
 </p>
 
 <!-- I'm completed in "100 Days of Code - The Complete Python Pro Bootcamp" course from Udemy. -->
-I AM NOT YET FINISHED (CURRENTLY DAY 85)
+<strong>This repository is a fork of the original project by <a href="https://github.com/lenargasimov">@lenargasimov</a>. The code was primarily written by him. While I have written my own code and worked on various projects, I did not organize them all on GitHub. This repository serves as a showcase of my learning journey in Python and the projects I worked on during the course.</strong>
+
 Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better
 guidance than I was getting while "self-learning".
 While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the
