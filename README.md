@@ -10,8 +10,8 @@ Since my goal is to master Python, I chose to take this course in the hope it wo
 guidance than I was getting while "self-learning".
 While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the
 best of my abilities.
-I'll be using this repo as a way for myself to access them as, if and when I need them.
-100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it:
+I'll use this repo as a way for myself to access them when I need them.
+100 projects in 100 days. I highly recommend this course:
 [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
 
 ![wallpaper](wallpaper.png)
@@ -165,14 +165,14 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - Web Design
 - Deployment with GitHub Pages, Render and GUnicorn
 
-<!--![certificate](certificate.jpg)
+![certificate](certificate.jpg)
 
-This certificate above verifies that Lenar Gasimov successfully completed the course 
-[100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code)  on 05/20/2021 as taught by Dr. Angela Yu on Udemy. 
+This certificate above verifies that Timon Rieger successfully completed the course 
+[100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code)  on 08/18/2024 as taught by Dr. Angela Yu on Udemy. 
 The certificate indicates the entire course was completed as validated by the student. 
-The course duration represents the total video hours of the course at time of most recent completion. -->
+The course duration represents the total video hours of the course at time of most recent completion.
 
 ---
 
-@lenargasimov 🐍 2021
+@timonrieger 🐍 2024
 
